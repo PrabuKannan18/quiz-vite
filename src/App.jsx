@@ -64,6 +64,7 @@ function App() {
           <div className="timer">
             <p>Time left: <span>{timer}s</span></p>
           </div>
+          {/*  */}
         </div>
       )}
     </div>
