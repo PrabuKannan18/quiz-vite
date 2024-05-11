@@ -1,0 +1,102 @@
+[
+    {
+      "question": "What is React.js?",
+      "options": [
+        "A JavaScript framework",
+        "A library for building user interfaces",
+        "A server-side rendering engine",
+        "A database management system"
+      ],
+      "answer": "A library for building user interfaces"
+    },
+    {
+      "question": "What is JSX in React.js?",
+      "options": [
+        "A JavaScript syntax extension",
+        "A templating language",
+        "A styling methodology",
+        "A state management library"
+      ],
+      "answer": "A JavaScript syntax extension"
+    },
+    {
+      "question": "What is the virtual DOM in React.js?",
+      "options": [
+        "The browser's DOM representation",
+        "A backup DOM in case of errors",
+        "A lightweight version of the DOM",
+        "An in-memory representation of the DOM"
+      ],
+      "answer": "An in-memory representation of the DOM"
+    },
+    {
+      "question": "What is a component in React.js?",
+      "options": [
+        "A function that returns HTML",
+        "A standalone JavaScript file",
+        "A reusable piece of UI",
+        "An HTML tag"
+      ],
+      "answer": "A reusable piece of UI"
+    },
+    {
+      "question": "What is state in React.js?",
+      "options": [
+        "The current condition of the application",
+        "A built-in React.js function",
+        "An external data storage",
+        "A type of CSS styling"
+      ],
+      "answer": "The current condition of the application"
+    },
+    {
+      "question": "What is props in React.js?",
+      "options": [
+        "A reserved keyword",
+        "The main HTML element",
+        "Data passed from parent to child components",
+        "A state management library"
+      ],
+      "answer": "Data passed from parent to child components"
+    },
+    {
+      "question": "What is the purpose of componentDidMount() in React.js?",
+      "options": [
+        "To render the component",
+        "To update the component's state",
+        "To fetch data from an API",
+        "To handle component unmounting"
+      ],
+      "answer": "To fetch data from an API"
+    },
+    {
+      "question": "What is the purpose of setState() in React.js?",
+      "options": [
+        "To change the component's state",
+        "To render child components",
+        "To import external libraries",
+        "To define the component's initial state"
+      ],
+      "answer": "To change the component's state"
+    },
+    {
+      "question": "What is the role of keys in React.js lists?",
+      "options": [
+        "To provide access to React's internal methods",
+        "To uniquely identify elements in a list",
+        "To style list items",
+        "To sort list elements"
+      ],
+      "answer": "To uniquely identify elements in a list"
+    },
+    {
+      "question": "What is Redux in React.js?",
+      "options": [
+        "A state management library",
+        "A router library",
+        "A testing framework",
+        "A CSS preprocessor"
+      ],
+      "answer": "A state management library"
+    }
+  ]
